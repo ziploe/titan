@@ -1,2 +1,2 @@
 # titan
-some titan demo
+some titan demo mainly about multiThread data loading
